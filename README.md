@@ -4,7 +4,7 @@ No dia 30/01/2024, Concluí um intensivão de JAVASCRIPT oferecido pela HashTag 
 
 O projeto a ser desenvolvido consiste em um desenvolver um clone da página da Apple de uma pulseira do Apple Watch, utilizando JAVASCRIPT para tornala interativa, além das linguagens de marcação HTML e CSS. 
 
-O intensivão tem como propósito aprender conceitos avançados do JAVASCRIPT.
+O intensivão tem como propósito aprender conceitos do básico ao avançado do JAVASCRIPT.
 <br>
 
 <div>
