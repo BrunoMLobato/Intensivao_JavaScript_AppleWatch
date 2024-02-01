@@ -1,4 +1,4 @@
-# :coffee:  Intensivão de JavaScript! 2
+# :coffee:  Intensivão de JavaScript! [AULA 2].
 No dia 30/01/2024, Concluí um intensivão de JAVASCRIPT oferecido pela HashTag Programação. 
 <br>
 
@@ -7,6 +7,7 @@ O projeto a ser desenvolvido consiste em um desenvolver um clone da página da A
 O intensivão tem como propósito aprender conceitos do básico ao avançado do JAVASCRIPT.
 <br>
 
+# 🌐 **Tecnologias Incrementadas**
 <div>
  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
